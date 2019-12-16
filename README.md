@@ -1,1 +1,1 @@
-Projeto de um site de pizzas, com Javascript sem sistema de pagamento
+Projeto de um site de pizzas, com Javascript sem sistema de pagamento, para aplicar os conhecimentos aprendidos
